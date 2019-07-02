@@ -1,0 +1,5 @@
+2019/07/02 05:20:59 [emerg] 1#1: "daemon" directive is duplicate in /etc/nginx/nginx.conf:3
+2019/07/02 05:26:19 [emerg] 1#1: invalid parameter "consisteng" in /etc/nginx/nas.conf:3
+2019/07/02 05:29:22 [emerg] 1#1: open() "/etc/nginx/logs/error.log" failed (2: No such file or directory)
+2019/07/02 05:30:15 [emerg] 1#1: open() "/etc/nginx/logs/error.log" failed (2: No such file or directory)
+2019/07/02 05:33:56 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.0.1, server: *.ciruelas.com, request: "GET /dashboard HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "127.0.0.1"

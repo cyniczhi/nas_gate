@@ -1,0 +1,1 @@
+172.17.0.1 - - [02/Jul/2019:05:33:56 +0000] "GET /dashboard HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
